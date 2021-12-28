@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+input {
+  padding: 20px;
+  border-radius: 10px;
+  width: 50%;
+  border: 1px solid rgba(128, 128, 128, 0.589);
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%), 0 25px 50px 0 rgb(0 0 0 / 10%);
+  margin-bottom: 5px;
+}
+
+button {
+  display: flex;
+  padding: 12px 59px;
+  border-radius: 11px;
+  margin: 0 auto;
+}
